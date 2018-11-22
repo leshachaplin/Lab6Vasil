@@ -1,0 +1,4 @@
+PetEntranceNikInfoSystems|PEN|12.02.3045|street oktyabrskaya|12.02.2345|123|michael brant|+321456783|pen@gmail.com|IT|dev|//http/ru/porty.nu
+PetEntranceNew|DAG|34.04.3045|street oktyabrskaya 456|56.32.2455|2233|thomas merf|+323465756|penguin@gmail.com|ITUNS|development|//http/ru/portyshead.nu
+gooseglens|GOOGLE|112.52.125|street oktyabrskaya 7685|128.028.23458|123888|barr brant|+3253476383|goo@gmail.com|INT|WOW|//http/ru/goo.gl
+EntranceNikInfoSystems|PEN|12.02.3045|street oktyabrskaya 10|12.02.2345345|312|michael|+3211116783|penis@gmail.com|RET|NET|//http/ru/found.nu
